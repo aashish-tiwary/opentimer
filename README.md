@@ -42,4 +42,15 @@ $ ./bin/ot-shell
 # Design Philosophy
 OpenTimer has a unique software architecture to efficiently enable parallel incremental timing. We draw two levers on performance and useability by grouping each timing operation to one of the three categories, builder, action, and accessor.
 
+![image](https://user-images.githubusercontent.com/110485513/190917688-52aa4f48-db6a-4f5c-b738-c5b0ef1f51d7.png)
+
+## Builder: OpenTimer Lineage
+OpenTimer maintains a lineage graph of builder operations to create a task execution plan (TEP). A TEP starts with no dependency and keeps adding tasks to the lineage graph every time you call a builder operation. It records what transformations need to be executed when an action has been called.
+
+![image](https://user-images.githubusercontent.com/110485513/190917926-aed85927-907b-4768-b430-4a29dbb3399b.png)
+
+The above figure shows an example lineage graph of a sequence of builder operations. The cyan path is the main lineage line with additional tasks attached to enable parallel execution. OpenTimer use Cpp-Taskflow to create dependency graphs.
+
+## Action: Update Timing
+
 
