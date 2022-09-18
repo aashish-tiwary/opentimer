@@ -39,5 +39,7 @@ $ ./bin/ot-shell
 
 ![OpenTimer](https://user-images.githubusercontent.com/110485513/190913917-dcbde034-274a-463f-98d4-f24976c89d79.png)
 
+# Design Philosophy
+OpenTimer has a unique software architecture to efficiently enable parallel incremental timing. We draw two levers on performance and useability by grouping each timing operation to one of the three categories, builder, action, and accessor.
 
 
