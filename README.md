@@ -36,3 +36,8 @@ $ make test
 ```
 $ ./bin/ot-shell
 ```
+
+![OpenTimer](https://user-images.githubusercontent.com/110485513/190913917-dcbde034-274a-463f-98d4-f24976c89d79.png)
+
+
+
