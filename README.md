@@ -52,5 +52,23 @@ OpenTimer maintains a lineage graph of builder operations to create a task execu
 The above figure shows an example lineage graph of a sequence of builder operations. The cyan path is the main lineage line with additional tasks attached to enable parallel execution. OpenTimer use Cpp-Taskflow to create dependency graphs.
 
 ## Action: Update Timing
+A TEP is materialized and executed when the timer is requested to perform an action operation. Each action operation triggers timing update from the earliest task to the one that produces the result of the action call. Internally, OpenTimer creates task dependency graph to update timing in parallel, including forward (slew, arrival time) and backward (required arrival time) propagations.
+
+## Accessor: Inspect OpenTimer
+The accessor operations let you inspect the timer status and dump timing information. All accessor operations are declared as const methods in the timer class. Calling them promises not to alter any internal members. For example, you can dump the timing graph into a DOT format and use tools like GraphViz for visualization.
+
+# OpenTimer Shell
+OpenTimer shell is a powerful command line tool to perform interactive analysis. It is also the easiest way to get your first timing report off the ground. The program ot-shell can be found in the folder bin/ after you Compile OpenTimer.
+## Commands
+The table below shows a list of commonly used commands.
+
+![image](https://user-images.githubusercontent.com/110485513/190918528-7decda77-0a71-4056-a8f2-fb648deb6832.png)
+
+# OpenTimer C++ API
+The class Timer is the main entry you need to call OpenTimer in your project. The table below summarizes a list of commonly used methods.
+
+![image](https://user-images.githubusercontent.com/110485513/190918656-41e9a46a-f624-4042-bfd9-51927cfa92a3.png)
+
+
 
 
