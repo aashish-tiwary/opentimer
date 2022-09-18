@@ -78,7 +78,7 @@ The class Timer is the main entry you need to call OpenTimer in your project. Th
 
 
 # Contact Information
-* Aashish Tiwary, Postgraduate Student, International Institute of Information Technology, Bangalore aashish.tiwary@iiitb.ac.in 
+* Aashish Tiwary, Research Scholar, International Institute of Information Technology, Bangalore aashish.tiwary@iiitb.ac.in 
 * Kunal Ghosh, Director, VSD Corp. Pvt. Ltd. kunalghosh@gmail.com
 
 
