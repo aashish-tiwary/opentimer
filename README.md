@@ -69,6 +69,15 @@ The class Timer is the main entry you need to call OpenTimer in your project. Th
 
 ![image](https://user-images.githubusercontent.com/110485513/190918656-41e9a46a-f624-4042-bfd9-51927cfa92a3.png)
 
+# Contributors
+* Aashish Tiwary
+* Kunal Ghosh
+# Acknowledgments
+* Kunal Ghosh, Director, VSD Corp. Pvt. Ltd.
+* Dr. Tsung-Wei Huang and Dr. Martin Wong (The University of Illinois at Urbana-Champaign, IL, USA)
 
+
+# Contact Information
+Aashish Tiwary, Postgraduate Student, International Institute of Information Technology, Bangalore aashish.tiwary@iiitb.ac.in Kunal Ghosh, Director, VSD Corp. Pvt. Ltd. kunalghosh@gmail.com
 
 
