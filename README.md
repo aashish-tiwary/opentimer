@@ -1,4 +1,4 @@
-# Static Timing Analysis
+# Static Timing Analysis - 1
 ![types of setup hold](https://user-images.githubusercontent.com/110485513/191718450-d1d1df78-db40-4ccc-a8ab-883f295a8bfc.png)
 * Time Graph
 
