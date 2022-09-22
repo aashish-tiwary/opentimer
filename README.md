@@ -8,6 +8,11 @@
 
 ![slack compute](https://user-images.githubusercontent.com/110485513/191718781-9fe682df-f4f4-4f0f-be82-1e1239322568.png)
 
+* Jitter
+![jitter](https://user-images.githubusercontent.com/110485513/191719090-e37a9efe-005e-4db2-83f0-ab550cb05da0.png)
+
+
+
 # OpenTimer
 OpenTimer is a new static timing analysis (STA) tool to help IC designers quickly verify the circuit timing. It is developed completely from the ground up using C++17 to efficiently support parallel and incremental timing.
 Key features are:
