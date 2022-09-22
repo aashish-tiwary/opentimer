@@ -8,6 +8,10 @@
 
 ![slack compute](https://user-images.githubusercontent.com/110485513/191718781-9fe682df-f4f4-4f0f-be82-1e1239322568.png)
 
+* Pin Node Conventions
+![pin node conv](https://user-images.githubusercontent.com/110485513/191719326-4516a0b8-21a4-4d47-85b8-818aaa31c830.png)
+
+
 * Jitter
 ![jitter](https://user-images.githubusercontent.com/110485513/191719090-e37a9efe-005e-4db2-83f0-ab550cb05da0.png)
 
