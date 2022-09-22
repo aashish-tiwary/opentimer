@@ -19,8 +19,6 @@
 * Transistor Level Operations
 ![negposlatch](https://user-images.githubusercontent.com/110485513/191720600-a83cace8-8fa0-4bd1-999d-4bac9c315331.png)
 
-
-
 * Jitter
 ![jitter](https://user-images.githubusercontent.com/110485513/191719090-e37a9efe-005e-4db2-83f0-ab550cb05da0.png)
 
