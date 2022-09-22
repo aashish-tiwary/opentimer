@@ -15,6 +15,9 @@
 * Jitter
 ![jitter](https://user-images.githubusercontent.com/110485513/191719090-e37a9efe-005e-4db2-83f0-ab550cb05da0.png)
 
+* Generating Jitter Values (EYE DIAGRAM)
+![eyediag](https://user-images.githubusercontent.com/110485513/191719699-a673fc0b-5514-47a3-ae78-2cd625c7acc5.png)
+
 
 
 # OpenTimer
