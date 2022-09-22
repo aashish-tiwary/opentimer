@@ -1,5 +1,12 @@
 # Static Timing Analysis
 ![types of setup hold](https://user-images.githubusercontent.com/110485513/191718450-d1d1df78-db40-4ccc-a8ab-883f295a8bfc.png)
+* Time Graph
+
+![timgph](https://user-images.githubusercontent.com/110485513/191718720-b33d3cc2-1b64-424f-9584-ae4777b4fbab.png)
+
+* Slack Compute
+
+![slack compute](https://user-images.githubusercontent.com/110485513/191718781-9fe682df-f4f4-4f0f-be82-1e1239322568.png)
 
 # OpenTimer
 OpenTimer is a new static timing analysis (STA) tool to help IC designers quickly verify the circuit timing. It is developed completely from the ground up using C++17 to efficiently support parallel and incremental timing.
