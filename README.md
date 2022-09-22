@@ -4,6 +4,11 @@
 
 ![timgph](https://user-images.githubusercontent.com/110485513/191718720-b33d3cc2-1b64-424f-9584-ae4777b4fbab.png)
 
+* DAG-Directed Acyclic Graph
+
+![DAG](https://user-images.githubusercontent.com/110485513/191720186-65b7ba06-defe-4a55-919d-fde030e2470a.png)
+
+
 * Slack Compute
 
 ![slack compute](https://user-images.githubusercontent.com/110485513/191718781-9fe682df-f4f4-4f0f-be82-1e1239322568.png)
